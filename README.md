@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @komal66
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning jjava backend development
+- 🌱 I’m currently learning java backend development
 - 💞
 - 📫 Please reach outto me at komalkashyap279@gmail.com
 
